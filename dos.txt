@@ -1,1 +1,3 @@
 dos.txt
+
+nuevas lineas de texto dos
